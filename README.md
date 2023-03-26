@@ -2,44 +2,7 @@
 <html>
   <head>
     <title>Les ornithorynques</title>
-    <style>
-      /* CSS code */
-      body {
-        background-color: #f6e3ce;
-        font-family: Arial, sans-serif;
-        text-align: center;
-      }
 
-      h1 {
-        color: #1e3f20;
-        font-size: 3em;
-        margin-top: 50px;
-      }
-
-      p {
-        color: #1e3f20;
-        font-size: 1.5em;
-        line-height: 1.5;
-        margin: 30px auto;
-        max-width: 700px;
-      }
-
-      img {
-        border-radius: 50%;
-        height: 300px;
-        margin: 50px auto;
-        display: block;
-      }
-
-      a {
-        color: #d15c39;
-        text-decoration: none;
-      }
-
-      a:hover {
-        text-decoration: underline;
-      }
-    </style>
   </head>
 
   <body>
